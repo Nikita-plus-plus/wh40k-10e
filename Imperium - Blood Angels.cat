@@ -3031,7 +3031,7 @@ horizontally away from all enemy models.</characteristic>
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Sanguinary Priest" hidden="false" id="f80-be5-d17c-db23">
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="90"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="75"/>
       </costs>
       <categoryLinks>
         <categoryLink targetId="9cfd-1c32-585f-7d5c" id="1745-3589-5d6b-5454" primary="true" name="Character"/>
